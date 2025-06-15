@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrie</h1>
 <h3 align="center">A IT Student from the Netherlands</h3>
 
-- 🔭 I’m currently working on [Citycraft](#Soon)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Java**
 
