@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WasBakje // Adrie</h1>
 <h3 align="center">A hobby developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on **Minecraft Server Status Checker**
+- 🔭 I’m currently working on **Project CC 2018**
 
 - 🌱 I’m currently learning **Java, Javascript, HTML, CSS**
 
