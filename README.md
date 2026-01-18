@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>- DonutSMP Core
+🔭 I’m currently working on <br>- Solos-Craft
 
 
 ## 🌐 Socials:
